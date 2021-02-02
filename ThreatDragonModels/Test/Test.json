@@ -95,6 +95,8 @@
                   "description": "A generic DoS threat"
                 }
               ],
+              "storesCredentials": true,
+              "isEncrypted": true,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasOpenThreats isInScope"
