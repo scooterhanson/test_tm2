@@ -1,9 +1,11 @@
 {
   "summary": {
-    "title": "test tm"
+    "title": "test tm",
+    "owner": "Bob"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "Bob"
   }
 }
