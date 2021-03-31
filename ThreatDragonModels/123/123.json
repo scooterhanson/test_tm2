@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "123",
+    "owner": "123",
+    "description": "123"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "123",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
